@@ -10,4 +10,5 @@
   <li>LinkedIn: <a href="https://www.linkedin.com/in/kadesamson" target="_blank" rel="noreferrer noopener">@kadesamson</a></li>
   <li>Instagram: <a href="https://www.instagram.com/kadesamson/" target="_blank" rel="noreferrer noopener">@kadesamson</a></li>
   <li>YouTube: <a href="https://www.youtube.com/channel/UCHQKzVvS5gmmTKynFKL-n7g" target="_blank" rel="noreferrer noopener">@kadealicious</a></li>
+  <li>Twitter: <a href="https://twitter.com/kadesamson" target="_blank" rel="noreferrer noopener">@KadeSamson</a></li>
 </ul>
