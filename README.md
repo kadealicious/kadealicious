@@ -2,5 +2,12 @@
 <ul>
   <li>Software engineer, audio engineer, & avid drummer</li>
   <li>Currently pursuing a BS in CS at SPU</li>
-  <li>Connect w/ me on Instagram: <a href="https://www.instagram.com/kadesamson/" target="_blank" rel="noreferrer noopener">@kadesamson</a></li>
+</ul>
+<h2>
+  Socials
+</h2>
+<ul>
+  <li>LinkedIn: <a href="https://www.linkedin.com/in/kadesamson" target="_blank" rel="noreferrer noopener">@kadesamson</a></li>
+  <li>Instagram: <a href="https://www.instagram.com/kadesamson/" target="_blank" rel="noreferrer noopener">@kadesamson</a></li>
+  <li>YouTube: <a href="https://www.youtube.com/channel/UCHQKzVvS5gmmTKynFKL-n7g" target="_blank" rel="noreferrer noopener">@kadealicious</a></li>
 </ul>
