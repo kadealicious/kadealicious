@@ -7,6 +7,7 @@
   Socials
 </h2>
 <ul>
+  <li>Portfolio: <a href="https://www.kadesamson.com" targe=_blank" rel="noreferrer noopener">kadesamson.com</a></li>
   <li>LinkedIn: <a href="https://www.linkedin.com/in/kadesamson" target="_blank" rel="noreferrer noopener">@kadesamson</a></li>
   <li>Instagram: <a href="https://www.instagram.com/kadesamson/" target="_blank" rel="noreferrer noopener">@kadesamson</a></li>
   <li>YouTube: <a href="https://www.youtube.com/channel/UCHQKzVvS5gmmTKynFKL-n7g" target="_blank" rel="noreferrer noopener">@kadealicious</a></li>
