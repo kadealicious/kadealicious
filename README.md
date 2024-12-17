@@ -11,4 +11,4 @@
   <li>YouTube: <a href="https://www.youtube.com/channel/UCHQKzVvS5gmmTKynFKL-n7g" target="_blank" rel="noreferrer noopener">@kadealicious</a></li>
 </ul>
 <hr />
-<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadealicious&layout=compact&exclude_repo=A1-SQL-Queries-Generator">
+<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadealicious&layout=compact&theme=tokyonight">
