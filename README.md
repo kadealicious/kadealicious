@@ -1,7 +1,8 @@
 <h1>Kade Samson - Est. 2001</h1>
 <ul>
   <li>Software engineer, audio engineer, & drummer</li>
-  <li>BS in CS at SPU</li>
+  <li>High-performance pDNS data streaming and mgmt @ DomainTools</li>
+  <li>BS in CS @ SPU</li>
 </ul>
 <h2>Links</h2>
 <ul>
